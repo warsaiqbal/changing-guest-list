@@ -8,6 +8,6 @@ console.log("Unfortunately" ,guests[2], "can't make it so I'm inviting Hammad to
 
 let guests2: string[] = ["Alishba", "Faizan", "Hammad"]
 
-console.log("I'm inviting", guests2[0], "to dinner.");
+console.log("Now I'm inviting", guests2[0], "to dinner.");
 console.log("I'm inviting", guests2[1], "to dinner.");
 console.log("I'm inviting", guests2[2], "to dinner.");
